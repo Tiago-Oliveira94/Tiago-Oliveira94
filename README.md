@@ -2,5 +2,6 @@
 
 - :eyes: I’m interested in Software Engineering, Clean Architecture and DDD
 - :seedling: I’m currently focusing on DevOps Engineering with NodeJS/TypeScript, Golang & AWS
-- :bulb: I have 5 years experience working with nodeJS microservices
+- :bulb: 5 years experience working with nodeJS microservices
+- :gem: 2 years experience working with Ruby on Rails apis
 - :mailbox: You can find me here https://www.linkedin.com/in/tiago-oliveira-319904144/
